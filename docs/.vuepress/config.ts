@@ -29,7 +29,7 @@ export default defineUserConfig({
                 'link', { rel: 'icon', href: '/favicon.ico' }
             ]
         ],
-        darkmode: 'toggle',
+        darkmode: 'disable',
         // plugins: {
         //     // mdEnhance: {
         //     //     align: 'center',
