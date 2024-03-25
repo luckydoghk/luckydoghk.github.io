@@ -3,6 +3,7 @@ home: true
 author: lucky
 title: 其它
 copyright: false
+category: 其它
 footer: <a href="#" target="_blank">自由英雄坛说</a> | MIT Licensed, Copyright © 2024-present lucky
 ---
 #####
