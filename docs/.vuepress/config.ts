@@ -20,10 +20,9 @@ export default defineUserConfig({
 
     ],
     theme: hopeTheme({
-        base: '/zy/',
+        base: '/',
         author:{
-            name: 'lucky',
-            url: 'http://localhost:8080',
+            name: 'lucky'
         },
         head:[
             [
