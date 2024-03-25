@@ -15,10 +15,7 @@
 </li>
 <li>
 <p>注意枪剑不互通，只能学一种，请谨慎。</p>
-<p><img src="https://luckydog-md.oss-cn-hangzhou.aliyuncs.com/typora/4e00c04e3f271c83a326af8425a3cda4.jpg" alt="4e00c04e3f271c83a326af8425a3cda4"></p>
-<p><img src="https://luckydog-md.oss-cn-hangzhou.aliyuncs.com/typora/2d9c65dce7eac063d06e5890322d263d.jpg" alt="2d9c65dce7eac063d06e5890322d263d"></p>
-<p><img src="https://luckydog-md.oss-cn-hangzhou.aliyuncs.com/typora/a8732efe75e091358f881c2d353823d3.jpg" alt="a8732efe75e091358f881c2d353823d3"></p>
-<h3 id="默默无闻-剑法" tabindex="-1"><a class="header-anchor" href="#默默无闻-剑法"><span>默默无闻（剑法）</span></a></h3>
+<p><img src="/zhufu001.gif">&gt;</p>
 <ul>
 <li>对话完之后去找平安镇南郊的老李，给老李10条鲤鱼（鲤鱼要一次性给10条，不足无效） 20%获得任务物品”货运清单“。</li>
 <li>获得清单后在找老李对话。</li>
@@ -38,7 +35,6 @@
 </ul>
 </li>
 </ul>
-<p><img src="https://luckydog-md.oss-cn-hangzhou.aliyuncs.com/typora/1ffcb797ce5224e1cc95aea49a656572.jpg" alt="1ffcb797ce5224e1cc95aea49a656572"></p>
 </div></template>
 
 

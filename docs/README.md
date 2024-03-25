@@ -19,14 +19,14 @@ actions:
   link: ./其它/
 features:
 - title: 自由
-  details: XXX
-- title: 内容丰富
-  details: XXX
+  details: 花样门派、丰富武学,自由选择
 - title: 不断更新
-  details: XXX
+  details: 开发人员持续更新
+- title: 免费
+  details: 完全免费
 
 copyright: false
-footer: <a href="https://theme-hope.vuejs.press/" target="_blank">自由英雄坛说</a> | MIT Licensed, Copyright © 2024-present lucky
+footer: <a href="#" target="_blank">自由英雄坛说</a> | MIT Licensed, Copyright © 2024-present lucky
 ---
 
   

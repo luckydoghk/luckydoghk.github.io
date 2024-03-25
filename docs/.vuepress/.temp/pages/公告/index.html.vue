@@ -1,27 +1,41 @@
-<template><div><h2 id="_2024年3月25日" tabindex="-1"><a class="header-anchor" href="#_2024年3月25日"><span>2024年3月25日</span></a></h2>
+<template><div><hr>
+<hr>
+<p><strong>2024年3月25日(置顶)</strong></p>
+<ul>
+<li>内测版永久下载地址 <a href="https://fir.xcxwo.com/ucfe" target="_blank" rel="noopener noreferrer">点击下载<ExternalLinkIcon/></a></li>
+</ul>
+<p><small>发布者：<font color="red">lucky</font></small></p>
+<hr>
+<p><strong>2024年3月25日(置顶)</strong></p>
+<ul>
+<li><a href="https://qm.qq.com/q/iYCcudqIFy" target="_blank" rel="noopener noreferrer">点击加入内测群聊<ExternalLinkIcon/></a></li>
+<li>扫码加入内测群聊</li>
+<li>
+<img src="/qrcode.jpg?w=200x200">
+</li>
+</ul>
+<hr>
+<p><strong><big>2024年3月25日</big></strong></p>
 <ul>
 <li>现有cdkey助力小号、自由万岁、武林大会成长礼包
 使用方法:功能-设置-cdkey，每次只能输入一个</li>
 </ul>
-<h5 id="发布者-lucky" tabindex="-1"><a class="header-anchor" href="#发布者-lucky"><span>发布者：<font color="red">lucky</font></span></a></h5>
-<h2 id="_2024年3月14日" tabindex="-1"><a class="header-anchor" href="#_2024年3月14日"><span>2024年3月14日</span></a></h2>
+<p><small>发布者：<font color="red">lucky</font></small></p>
+<hr>
+<p><strong><big>2024年3月14日</big></strong></p>
 <ul>
 <li>3.14更新内容:
-<ul>
-<li>玄铁剑法</li>
-<li>魔刀丁鹏</li>
-<li>月圆之夜</li>
-<li>上架凤血丸</li>
-<li>关闭五行副本，五行棍改为鬼玺兑换</li>
-</ul>
+<blockquote>
+<p>1.玄铁剑法 <br>
+2.魔刀丁鹏 <br>
+3.月圆之夜 <br>
+4.上架凤血丸 <br>
+5.关闭五行副本，五行棍改为鬼玺兑换 <br></p>
+</blockquote>
 </li>
 </ul>
-<h5 id="发布者-lucky-1" tabindex="-1"><a class="header-anchor" href="#发布者-lucky-1"><span>发布者：<font color="red">lucky</font></span></a></h5>
-<h2 id="_2023年10月10日" tabindex="-1"><a class="header-anchor" href="#_2023年10月10日"><span>2023年10月10日</span></a></h2>
-<ul>
-<li>内测版永久下载地址 https://fir.xcxwo.com/ucfe</li>
-</ul>
-<h5 id="发布者-lucky-2" tabindex="-1"><a class="header-anchor" href="#发布者-lucky-2"><span>发布者：<font color="red">lucky</font></span></a></h5>
+<p><small>发布者：<font color="red">lucky</font></small></p>
+<hr>
 </div></template>
 
 
